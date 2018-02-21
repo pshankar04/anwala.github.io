@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The Voice of Ithaca College!">
+        <meta name="author" content="James Manton">
+
+        <title>VIC Radio - "The Best of What's Next!"</title>
+
+        <!-- Fonts -->
+        <script src="/cdn-cgi/apps/head/uaZrvGAFrvygSbpFsZtUH7rALWc.js"></script><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli">
+
+
+        <!-- CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet"> <!-- Bootstrap Core CSS -->
+        <link href="css/vicradio3.css" rel="stylesheet"> <!-- Custom CSS -->
+        <!-- JPlayer CSS -->
+        <link type="text/css" href="jPlayer/premium.pixels/css/themicons.css" rel="stylesheet" media="all">
+        <link type="text/css" href="jPlayer/premium.pixels/css/style.css" rel="stylesheet" media="all">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+    </head>
+
+    <body>
+
+        <!-- Stream Bar -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-4 col-xs-10 col-md-offset-0 col-sm-offset-0">    
+                        <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+
+                        <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+                            <div class="jp-interface">
+                                <div class="jp-button jp-playpause-button">
+                                    <button class="jp-play" role="button" tabindex="0">play</button>
+                                </div>
+
+                                <div class="jp-button jp-volume-button">
+                                    <button class="jp-mute" role="button" tabindex="0">max volume</button>
+                                </div>
+                                <div class="jp-volume-bar">
+                                    <div class="jp-volume-bar-value"></div>
+                                </div>
+                            </div>
+                            <!--<div class="jp-no-solution">
+<span style="font-size: 8pt">Update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.</span>
+</div>-->
+                        </div><!-- .jp-audio -->
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-md-offset-0 col-sm-offset-0 now-playing-wrapper">                    
+                        <p id="now-playing-text" style="font-size: .85em; color: #FFF; vertical-align: middle; display: table-cell; height: 50px; white-space: nowrap;">Now Playing: "<span class="now-playing-song">The Best of What's Next</span>" by <span class="now-playing-artist">VIC Radio</span></p>
+                    </div>
+                    <div class="navbar-header col-xs-2">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobile-nav">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Brand and toggle get grouped for better mobile display -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="navbar-collapse collapse" id="mobile-nav">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#home-tab" data-toggle="tab">Home</a></li>
+                        <li><a href="#music-tab" data-toggle="tab">Music</a></li>
+                        <li><a href="#schedule-tab" data-toggle="tab">Schedule</a></li>
+                        <li><a href="#staff-tab" data-toggle="tab">Staff</a></li>
+                        <li><a href="#contact-tab" data-toggle="tab">Contact</a></li>
+                        <li><a href="#about-tab" data-toggle="tab">About</a></li>
+                        <li><a href="http://www.50hours.org/ " target="_blank">Marathon</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+        <!-- Full Width Image Header -->
+        <header>
+
+            <div class="header-text">
+                <div class="header-phone-number">(607) 274-1059</div>
+                <div class="header-callout">call with song requests!</div>
+            </div>
+
+            <div class="social-media-bar">
+                <a class="social-media-button tumblr-button" href="http://www.vicradio.tumblr.com/" target="_blank">tumblr</a>
+                <a class="social-media-button instagram-button" href="https://www.instagram.com/vicradio/" target="_blank">instagram</a>
+                <a class="social-media-button twitter-button" href="https://www.twitter.com/vicradio" target="_blank">twitter</a>
+                <a class="social-media-button facebook-button" href="https://www.facebook.com/VICradio" target="_blank">facebook</a>
+                <a class="social-media-button soundcloud-button" href="https://soundcloud.com/vicradio-1" target="_blank">SoundCloud</a>
+                <a class="social-media-button youtube-button" href="https://www.youtube.com/channel/UCwBYpQwVToj7xq8H8Pe8rbw" target="_blank">YouTube</a>
+                <a class="social-media-button apple-button" href="https://itunes.apple.com/us/app/vic-radio/id1036935530?mt=8" target="_blank">App Store</a>
+            </div>
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0"></li>
+                    <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+
+                    <div class="item">
+                        <img src="img/announcements/voice-of-ithaca-college-banner.png" alt="VIC-Welcome-Header">
+                    </div>
+
+                    <div class="item active">
+                        <a href="https://itunes.apple.com/us/app/vic-radio/id1036935530?mt=8" target="_blank"><img src="img/announcements/web-app-banner.jpg" alt="VIC iOS App"></a>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </header>
+
+        <!-- Page Content -->
+        <div class="container">
+
+            <div class="row nav-wrapper">
+                <div class="col-lg-12">
+
+
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#home-tab" data-toggle="tab">Home</a></li>
+                        <li><a href="#music-tab" data-toggle="tab">Music</a></li>
+                        <li><a href="#schedule-tab" data-toggle="tab">Schedule</a></li>
+                        <li><a href="#staff-tab" data-toggle="tab">Staff</a></li>
+                        <li><a href="#contact-tab" data-toggle="tab">Contact</a></li>
+                        <li><a href="#about-tab" data-toggle="tab">About</a></li>
+                        <li><a href="http://www.50hours.org/" target="_blank">Marathon</a></li>
+                    </ul>
+
+                    <div class="tabbable">
+                        <div class="tab-content">
+
+                            <!-- Home Tab -->
+                            <div class="tab-pane active" id="home-tab">
+                                <div class="mobile-bar">
+                                    <a class="social-media-button tumblr-button" href="http://www.vicradio.tumblr.com/" target="_blank">tumblr</a>
+                                    <a class="social-media-button instagram-button" href="https://www.instagram.com/vicradio/" target="_blank">instagram</a>
+                                    <a class="social-media-button twitter-button" href="https://www.twitter.com/vicradio" target="_blank">twitter</a>
+                                    <a class="social-media-button facebook-button" href="https://www.facebook.com/VICradio" target="_blank">facebook</a>
+                                    <a class="social-media-button soundcloud-button" href="https://soundcloud.com/vicradio-1" target="_blank">SoundCloud</a>
+                                    <a class="social-media-button youtube-button" href="https://www.youtube.com/channel/UCwBYpQwVToj7xq8H8Pe8rbw" target="_blank">YouTube</a>
+                                    <a class="social-media-button apple-button" href="https://itunes.apple.com/us/app/vic-radio/id1036935530?mt=8" target="_blank">App Store</a>
+                                </div>
+                                <div class="row home-content-wrapper">
+                                    <div class="col-md-5 col-md-push-5 home-content-right">
+                                        <div class="on-air-wrapper">
+                                            <div id="onAir">
+                                                <span class="pull-left on-air"><p class="text-center">ON AIR</p>   </span>
+                                                <span class="pull-left on-air-info"><p class="current-time">8:00PM-10:00PM ET</p><p class="current-show"> The Best of What's Next  </p>
+                                                    </span>                                            </div>
+                                        </div>
+                                        <div class="recently-played">
+                                            <h3 class="recently-played-title">Recently Played on VIC</h3>
+                                            <div class="recently-played-list">
+                                                <ol style="padding-left: 30px">
+                                                    <li>
+                                                                    <div>"Outta Sight" by Love Inks - 6:04 PM</div>
+                                                                </li><li>
+                                                                    <div>"Composite" by Palm - 6:00 PM</div>
+                                                                </li><li>
+                                                                    <div>"Mystery of Love" by Sufjan Stevens - 5:55 PM</div>
+                                                                </li><li>
+                                                                    <div>"Morning Tide" by The Little Ones - 5:51 PM</div>
+                                                                </li><li>
+                                                                    <div>"Rich Girls" by The Virgins - 5:48 PM</div>
+                                                                </li><li>
+                                                                    <div>"She Got Time" by The Morning Yells - 5:43 PM</div>
+                                                                </li><li>
+                                                                    <div>"Sweet Dew Lee" by Belle and Sebastian - 5:37 PM</div>
+                                                                </li><li>
+                                                                    <div>"The Love Club" by Lorde - 5:32 PM</div>
+                                                                </li><li>
+                                                                    <div>"Your True Name" by The Radio Dept. - 5:22 PM</div>
+                                                                </li><li>
+                                                                    <div>"Slow" by Beachtape - 5:14 PM</div>
+                                                                </li><li>
+                                                                    <div>"Confession" by DIANA - 5:09 PM</div>
+                                                                </li><li>
+                                                                    <div>"Bed Case" by Tancred - 5:07 PM</div>
+                                                                </li><li>
+                                                                    <div>"Anthem for Doomed Youth" by The Libertines - 5:02 PM</div>
+                                                                </li><li>
+                                                                    <div>"Lilies" by Bedbug - 4:58 PM</div>
+                                                                </li><li>
+                                                                    <div>"The Hype" by Shopping - 4:54 PM</div>
+                                                                </li><li>
+                                                                    <div>"7-11" by The Postmarks - 4:50 PM</div>
+                                                                </li><li>
+                                                                    <div>"Yellow Sun" by Crystal Fighters - 4:47 PM</div>
+                                                                </li><li>
+                                                                    <div>"Smile in Denial" by Drew Beskin - 4:44 PM</div>
+                                                                </li><li>
+                                                                    <div>"Mushaboom" by Feist - 4:41 PM</div>
+                                                                </li><li>
+                                                                    <div>"I'?ll Be Your Pilot" by Belle and Sebastian - 4:41 PM</div>
+                                                                </li><li>
+                                                                    <div>"I'?ll Be Your Pilot" by Belle and Sebastian - 4:36 PM</div>
+                                                                </li><li>
+                                                                    <div>"Painting a Hole" by The Shins - 4:33 PM</div>
+                                                                </li><li>
+                                                                    <div>"People Has It Hard" by Kid Trails - 4:23 PM</div>
+                                                                </li><li>
+                                                                    <div>"You, Me and the Bourgeoisie" by The Submarines - 4:20 PM</div>
+                                                                </li><li>
+                                                                    <div>"Later" by Cones - 4:11 PM</div>
+                                                                </li>                                                </ol>
+                                            </div>
+                                        </div>
+                                        <div class="twitter-feed">
+                                            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/VICradio" data-widget-id="685576968042065921">Tweets by @VICradio</a>
+                                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-md-pull-6 tumblr-feed">
+                                        <iframe src="https://vicradio.tumblr.com/" class="tumblr-iframe" width="100%" height="800" frameborder="0"></iframe> 
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Music Tab -->
+                            <div class="tab-pane" id="music-tab">
+
+                            </div>
+
+                            <!-- Schedule Tab -->
+                            <div class="tab-pane" id="schedule-tab">
+
+                            </div>
+
+                            <!-- Staff Tab -->
+                            <div class="tab-pane" id="staff-tab">
+
+                            </div>
+
+                            <!-- Contact Tab -->
+                            <div class="tab-pane" id="contact-tab">
+
+                            </div>
+
+                            <!-- About Tab -->
+                            <div class="tab-pane" id="about-tab">
+
+                            </div>
+                        </div>
+                    </div> <!-- /tabbable -->
+
+                </div> <!-- /col-lg-12 -->
+            </div> <!-- /row -->
+
+
+
+
+        </div> <!-- /.container -->
+
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-xs-5">
+                        <p>Copyright &copy; VIC Radio 2016</p>
+                    </div>
+                    <div class="col-md-4 col-md-offset-4 col-sm-4 col-xs-offset-3" style="text-align: right;">
+                        <p>Created by James Manton</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-5">
+                        Owned/Operated by <a href="http://www.ithaca.edu/" style="color: #FFF" target="_blank">Ithaca College</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- JavaScript -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> <!-- Includes JQuery from Google -->
+        <script src="js/bootstrap.min.js"></script> <!-- Bootstrap Core JavaScript -->
+        <script type="text/javascript" src="js/nowPlayingInfoNEW_1-31-17.js"></script>
+
+        <!-- jPlayer JavaScript -->
+        <script type="text/javascript" src="jPlayer/premium.pixels/js/vendor/jquery.jplayer.min.js"></script>
+        <script type="text/javascript" src="jPlayer/premium.pixels/js/vendor/jplayer.playlist.min.js"></script>
+        <script type="text/javascript" src="jPlayer/premium.pixels/js/main.js"></script>
+
+
+        <!-- Connects mobile nav links to content tabs -->
+        <script type="text/javascript">
+            $('[href="#music-tab"]').click(function(){
+                $("#music-tab").load("music-tab.php");
+            });
+            $('[href="#schedule-tab"]').click(function(){
+                $("#schedule-tab").load("schedule-tab.php");
+            });
+            $('[href="#staff-tab"]').click(function(){
+                $("#staff-tab").load("staff-tab.php");
+            });
+            $('[href="#contact-tab"]').click(function(){
+                $("#contact-tab").load("contact-tab.php");
+            });
+            $('[href="#about-tab"]').click(function(){
+                $("#about-tab").load("about-tab.php");
+            });
+        </script>
+
+    </body>
+
+</html>

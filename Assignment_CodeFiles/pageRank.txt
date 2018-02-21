@@ -1,0 +1,17 @@
+PageRank	URI
+--------	---
+0.5			https://www.thescottishsun.co.uk
+0.7			https://www.chelseafc.com
+0.9			http://www.independent.co.uk
+0.7			http://www.gulf-times.com
+0.5			http://www.und.com
+0.4			https://pechalbata.com
+0.7			https://www.birminghammail.co.uk
+0.8			https://www.mirror.co.uk
+0.5			https://www.onefootdown.com
+0.6			https://www.liverpoolecho.co.uk
+0.8			https://www.coventrytelegraph.net
+0.5			https://www.sportsmole.co.uk
+0.9			https://itunes.apple.com
+1			https://www.youtube.com
+0.7			http://www.skysports.com

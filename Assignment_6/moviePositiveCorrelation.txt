@@ -1,0 +1,2 @@
+[(-1.000000000000004, "Roseanna's Grave (For Roseanna) (1997)"), (-1.0000000000000018, 'Year of the Horse (1997)'), (-1.0000000000000007, 'I Like It Like That (1994)'), (-1.0, 'American Dream (1990)'), (-1.0, 'Bewegte Mann, Der (1994)')]
+[(1.0000000000000007, 'Hollow Reed (1996)'), (1.000000000000001, 'Designated Mourner, The (1997)'), (1.0000000000000013, 'Commandments (1997)'), (1.0000000000000013, 'No Escape (1994)'), (1.000000000000004, 'Cosi (1996)')]

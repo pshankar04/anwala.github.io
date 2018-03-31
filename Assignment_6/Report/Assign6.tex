@@ -304,8 +304,8 @@ listSize = 0
 with open('users.txt', 'r') as f1:
     for line in f1:
         userId,age,gender,occupation,zipcode = line.split('|')
-        # if((int(age) < int(myAge) and int(age) > int((myAge - 3))) and (gender == myGender) and (occupation == myOccupation)):
-        if((int(age) == myAge) and (gender == myGender) and (occupation == myOccupation)):	
+        if((int(age) == myAge) and (gender == myGender) and 
+                                            (occupation == myOccupation)):	
         	matchingUsers.append(userId)
 
 print matchingUsers        	
@@ -315,20 +315,21 @@ with open('data.txt', 'r') as f2:
         userId,movieId,rating,mseconds = line.split('	')
         if(userId in matchingUsers):
         	if(userId in userMoviesDict):
-        		userMoviesDict[userId] = userMoviesDict[userId] + ":" + movieId + "|" + rating 
+        		userMoviesDict[userId] = userMoviesDict[userId] + ":" 
+		                                                 + movieId + "|" + rating 
         	else :
         		userMoviesDict[userId] = movieId + "|" + rating 
 
 print('--------')
 for key, value in userMoviesDict.items():
-	# print(key,userMoviesDict[key])
 	userMovieRatingsList = userMoviesDict[key].split(":")
 	for movieRating in userMovieRatingsList:
 		movie,rating = movieRating.split("|")
 		userMovieRatingDict[movie] = rating
 		# print(movie,rating)
 
-	sortedRatings = sorted(userMovieRatingDict.items(), key=lambda value: value[1])
+	sortedRatings = sorted(userMovieRatingDict.items(), 
+	                                       key=lambda value: value[1])
 	# print("Length :",len(sortedRatings))
 	bottomCount = 0
 	topCount = 0
@@ -367,7 +368,8 @@ for key, value in finalTopThree.items():
 			for line in file:
 				mid,movieTitle = line.split("|")[0:2]
 				if(mid == movieId):
-					print key,"  "+ movieTitle+"  "+rating.replace(")","").replace("'","")
+					print key,"  "+ movieTitle+"  "+
+					 rating.replace(")","").replace("'","")
 
 print('\n')
 
@@ -382,7 +384,8 @@ for key, value in finalBottomThree.items():
 			for line in file:
 				mid,movieTitle = line.split("|")[0:2]
 				if(mid == movieId):
-					print key,"  "+ movieTitle+"  "+rating.replace(")","").replace("'","")
+					print key,"  "+ movieTitle+"  "+
+					rating.replace(")","").replace("'","")
 \end{lstlisting}
 
 The above code, will generate top 3 favorite and bottom 3 least favorite movies from the selected 3 users.
@@ -1133,10 +1136,13 @@ are saved in to \textbf{moviePositiveCorrelation.txt} and \textbf{moviepNegative
       \caption{Top 5  Favorite Recommendations}
 	\end{figure}
 	
-
+\newpage
+	
+\textbf{Conclusion} To review the results obtained from the Correlations ; Im not sure about most of the movies here as i have not watched them,but did watch the part of 
+\textbf{American Dream} and did not seem interesting to me.
 	
 \end{homeworkProblem}
-\newpage
+
 \textbf{References}
 \begin{enumerate}
 \item\textbf{} https://github.com/arthur-e/Programming-Collective-Intelligence

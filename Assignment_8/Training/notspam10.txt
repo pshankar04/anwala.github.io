@@ -1,0 +1,17 @@
+Hi Puneeth,
+
+My name is Jay Alammar. I’m a content developer on Udacity’s AI team. I started my career as a coder, but everything changed for me when I discovered AI. I’m writing you today, because I want to encourage you to consider adding AI to your coding toolkit.
+
+No more hand-coded solutions. No more manual fixes for every edge case. Instead, you can train neural networks to learn from more data than we could ever make sense of personally!
+
+This is why I’m excited about Udacity’s new AI Programming with Python Nanodegree program. Whether you’ve been programming for a while, or are brand-new to coding, you’ll be able to master all the essential AI tools (Python, linear algebra, neural nets) and start building your own AI apps in just two months.
+
+Best of all, if you enroll by April 3, you can even save on your tuition!
+
+Every developer and analyst will need these skills in the next decade. You have a chance to get started today.
+
+Best,
+
+Jay
+Content Developer, 
+AI Programming with Python Nanodegree Team

@@ -1,0 +1,17 @@
+Hi Puneeth,
+
+This is Chris Gearhart. I’m the Student Experience Lead for Udacity’s Artificial Intelligence Nanodegree program, and I’m excited to show you some of the amazing projects you’ll build in this classroom—in just 3 months!
+
+Develop a program that can efficiently solve any Sudoku, by applying Constraint Propagation.
+Build a system that can use Symbolic Logic and Search to develop an optimal plan for achieving a set of goals—the same kind of system that powers automation and logistics operations, and aerospace applications like the Hubble telescope and NASA Mars rovers.
+Build an Adversarial Game Playing Agent that makes good decisions without any human intervention—such as the DeepMind AlphaGo agent.
+Perform Pattern Recognition using a Hidden Markov Model (HMM) for speech tagging, a common pre-processing step in Natural Language Processing.
+This program focuses on the foundational AI algorithms that all AI experts draw on for their innovations, and I’d like to invite you to enroll. You’ll learn this essential AI knowledge with Sebastian Thrun, Peter Norvig, and Thad Starner, each of whom is hugely influential in the field.
+
+Best of all, if you enroll by April 17th, you can save $200 off your tuition!
+
+Best,
+
+Chris
+Student Experience Lead, 
+Artificial Intelligence Nanodegree program

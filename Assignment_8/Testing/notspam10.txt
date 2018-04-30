@@ -1,0 +1,42 @@
+Codementor Weekly Newsletter - April 25, 2018
+
+Hi puneet,
+
+We're fashionably late, but for good reason since it's Product Hunt Launch Day! Be sure to pop over and say hi 😀 Some other equally exciting things that happened this week include comparing in-house and freelance dev teams, how to hack your way to becoming an Indie Hacker, and dinosaurs.
+
+No more wondering if you're over- or undercharging as a freelance developer
+At least, not if you're using Freelance Developer Rate Finder, which we just launched on Product Hunt. We surveyed and analyzed the hourly rates of 9,000+ vetted freelancers across 20+ tech stacks. Better yet? You can filter rates based on experience level and location.
+
+Seriously, what are you waiting for? Come join our launch party on Product Hunt! 🎉
+
+This week's standout articles are...
+In-House vs Freelance Software Development: Pros and Cons
+
+Can't decide if you should use in-house or freelance developers? Wonder no more, here are the pros and cons based on expertise, quality, time, and money.
+
+How Much Does a Website Cost in 2018? A Breakdown of Website Maintenance Costs
+
+Building a website is just the first step, the real question is how much does it take to maintain a website?
+
+From Engineer to Entrepreneur: Becoming an Indie Hacker
+
+Don't just be a hacker...be an Indie Hacker.
+
+CSS: Understanding JavaScript Module Resolution Systems with Dinosaurs
+
+"It's also worth considering the fact that the dinosaurs didn't use modules and now they're extinct." Just sayin'.
+
+Find more awesome content here 🤓
+
+If you're looking for a full-time job...
+And happen to be an iOS developer, Foundermark is looking for you to lead their dev team.
+
+If you are looking for a super creative environment, Five & Done is looking for a Senior WebGL/Javascript Developer to join their team.
+
+Not interested in either? Check out Codementor Jobs for more opportunities!
+
+
+Be sure to join our Product Hunt party! We'll buy you a virtual drink! 😉
+
+555 Bryant Street, #866, Palo Alto, CA 94301, USA
+Unsubscribe

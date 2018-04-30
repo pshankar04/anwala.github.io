@@ -1,0 +1,65 @@
+Hello Puneeth Shankar,
+
+Here's an interesting job that we think might be relevant for you - .
+
+click here to apply
+Frontend Lead
+
+We, at Zolo (www.zolostays.com), are looking for Frontend Lead who comes with at least 5+ years of strong hands-on experience in frontend programming language. 
+This role is best suited for folks who have a strong sense of design and are willing to take end-to-end ownership of the front-end development at Zolo. The ideal candidate is very strong in HTML5, CSS3/SASS, JavaScript with hands on experience in different front end frameworks like Angular/ React.
+
+What does the core role include?
+
+- Writing reusable, testable, and efficient code
+
+- Design and implementation of low-latency, high-availability and high-performance applications
+
+- Implementation of security and data protection
+
+- End to End development of Platform Component in React & Angular 5
+
+- Bridge the gap between graphical design and technical implementation
+
+What else can you expect in the role?
+
+- Actively work with Product Managers and UX Designers
+
+- Collaborate with architects, product management, and other engineering teams to create solutions that increase the platform's value.
+
+What are we looking for?
+
+- First things first: 5+ years of dev experience, 3+ years in React/ Angular framework
+
+- Hands on experience in responsive web design.
+
+- Proficiency with well-structured CSS and pre-processing frameworks (SASS/LESS/Stylus)
+
+- Good knowledge of JS-based build tools like Webpack, Grunt, Gulp, and Bower
+
+What can fetch you brownie points?
+
+- Experience with react-native or Polymer
+
+- Experience with high-performance websites catering to millions of daily traffic is a plus
+
+- Good understanding of SEO principles in Single Page Applications
+
+What are the remuneration and perks?
+
+- Salary as per market standards
+Whom would you work very closely with?
+CTO : Akhil Sikri, IIT Delhi - Linkedin Profile: https://www.linkedin.com/in/akhilsikri/
+CEO: Dr. Nikhil Sikri, ISB, AIIMS - Linkedin Profile: https://www.linkedin.com/in/dr-nikhil-sikri-71506110/
+CBO: Amar Choudhary, IIMB, NIT - Linkedin Profile: https://www.linkedin.com/in/amar-choudhary-93889026/
+COO: Sneha Choudhry, IIMK, RVCE - Linkedin Profile: https://www.linkedin.com/in/sneha-choudhry-548a731b/
+Product and Business: Abhilekh Kumar, IIT KGP, Darden GSB - Linkedin Profile:https://www.linkedin.com/in/abhilekh-kumar-2604821/
+
+
+
+click here to apply
+
+PS: Please ignore this email if you have already applied or not interested in this job. 
+
+Best regards,
+Team hirist.com
+info@hirist.com

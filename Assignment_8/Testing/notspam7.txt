@@ -1,0 +1,68 @@
+Hirist <info@hirist.com> Unsubscribe
+Apr 26 (3 days ago)
+to me 
+Hello Puneeth Shankar,
+
+Here's an interesting job that we think might be relevant for you - .
+
+click here to apply
+Preferred Qualifications: B.E / B.Tech / MCA/ MS degree or equivalent. Experience relevant to functional area. Around 5-7+ years of Java Development or related experience.
+
+Job Description :
+
+- Design & Develop application using JAVA/J2EE programming skills, Spring, Hibernate Frameworks. (EJB, JMS, JAX-RS) Spring, Hibernate Frameworks, JBOSS 
+
+- Design and deliver high quality software artefacts under direction of Development Have used Java J2ee frameworks including Spring, JPA, JMS, Coherence cache
+
+- Build innovative, exceptional and well-engineered Java/J2EE applications using technology stack Struts/ Spring, Hibernate/iBatis, Postgresql, JBoss 7, ANT/ Maven
+
+- Actively code and lead the team by example
+
+- Develop and promote good implementation practices, design, coding standard for Core Java / Java web application development.
+
+- Managing deployment environments (Dev/ Pre-prod/Prod)
+
+- Version control management. Adapt plans, schedules, and resource assignments as required to respond to emerging requirements and risks.
+
+- Carry out technical evaluation, feasibility studies, build prototypes/ PoCs/ solutions for new business ideas.
+
+- Develop software, of average - high complexity in Java language.
+
+- Adhere to the organizations software development standards. 
+
+- Devise detailed design from high-level/ functional design provided to him/ her.
+
+Skills and Knowledge Required :
+
+- Good knowledge of java and associated J2EE, ADF, Struts technologies.
+
+- Exposure to Service Oriented Architecture.
+
+- Exposure to application servers like Oracle Application Server, BEA WebLogic
+
+- Strong teamwork skills and ability to handle multiple concurrent priorities/projects in a fast-paced environment.
+
+- Fairly Good understanding of Database concepts and SQL, PLSQL
+
+- Should be good in Design and application development using Object oriented programming
+
+- Experience in any application framework ORM tools in JAVA
+
+- Good understanding/experience on software development methodology such as Agile, TDD etc.
+
+
+
+click here to apply
+
+PS: Please ignore this email if you have already applied or not interested in this job. 
+
+Best regards,
+Team hirist.com
+info@hirist.com
+
+_________________________________________________________
+Copyright © 2017 hirist.com. All rights reserved. 
+Sent by hirist.com | 6th Floor, Kings Mall, Sector - 10, Rohini, Delhi-85
+
+You are receiving this email because you are registered to hirist.com.
+If you don’t want to receive emails like these anymore, you can unsubscribe.

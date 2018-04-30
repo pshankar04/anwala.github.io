@@ -1,0 +1,14 @@
+Enrollments closing today for Python Foundation Nanodegree batch
+
+Beginner-friendly, easy to understand, compatibility and versatility — These are some of the reasons why Python is widely popular amongst developers. Both Python's standard library and the community-contributed modules allow for endless possibilities. Mastering Python will help you get started in advanced technologies like Machine Learning, Deep Learning, and Data Science. Get started today with our Python Foundation Nanodegree.
+
+Here are some of the applications of Python libraries in advanced technologies:
+
+
+Tensorflow: This open source library by Google’s Brain team is one of widely popular Python library for Machine Learning and Deep Learning.
+
+Numpy: Mathematical and Scientific computing library for Python. This can be used to express images, sound waves or any other raw binary streams as arrays of real numbers with N dimensions.
+
+Keras: If you are a beginner in Machine Learning, Keras is a perfect library for you. It provides multiple utilities for processing datasets, compiling models, evaluating results, visualization of graphs, and more.
+
+Pandas: Pandas is a data analysis and modeling library. It provides data structures and operations for manipulating numerical tables and time series.

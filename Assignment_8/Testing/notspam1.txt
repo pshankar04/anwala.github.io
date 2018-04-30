@@ -1,0 +1,17 @@
+Attention! The round starts on Sunday, April, 29, 2018 13:05 (UTC).
+Hello, douglas2016. Welcome to Codeforces round based on VK Cup 2018 Round 3
+
+I'm glad to invite you to take part in Codeforces Round 477. Actually it will be three separate rounds "VK Cup 2018 Round 3", "Codeforces Round #477 (Div. 1 Only)" and "Codeforces Round #477 (Div. 2 Only)".
+
+Official participants of VK Cup 2018 Round 3 should register to the first of them. But "Codeforces Round #477 (Div. 1 Only)" and "Codeforces Round #477 (Div. 2 Only)" are public, open and rated for all! Top50 in the "Div1 Edition" contest will get t-shirts.
+
+Start time is Sunday, April, 29, 2018 13:05 (UTC). The contest duration is 2.5 hours. The allowed programming languages are C/C++, Pascal, Java, C#, Python, Ruby, Perl, PHP, Haskell, Scala, OCaml, Go, D, JavaScript and Kotlin.
+
+The round writers are Zlobober and Endagorion. Do not miss the round!
+
+The round will be held on the rules of Codeforces, so read the rules (here and here) beforehand. The round will be for newcomers and participants from the both divisions. Want to compete? Do not forget to register for the contest and check your handle on the registrants page. The registration will be closed 5 minutes before the contest.
+
+If you have any questions, please feel free to ask me on the pages of Codeforces. If you no longer wish to receive these emails, click http://codeforces.com/unsubscribe/contests/9c45762e6ac7c69eb9d947face5d1411c95ca4d2/ to unsubscribe.
+
+Wish you high rating,
+MikeMirzayanov and Codeforces team

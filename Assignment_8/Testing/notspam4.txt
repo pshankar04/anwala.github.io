@@ -1,0 +1,7 @@
+This challenge is all about testing the functionality and user experience of Bounties Network and Gitcoin. Gitcoin issues are all open source development tasks that can also be viewed on the Bounties Network, while Bounties Network encompasses all Gitcoin issues as well as additional non technical tasks.
+
+The goal is to complete as many tasks as you can in the 10 day period. Please take note of any functionality you feel is incomplete or missing, as well as collecting general user experience feedback, as we will be reaching out with a questionnaire once the challenge has concluded. For more details on the challenge, click here.
+
+Hello Devs,
+
+This is Shashank

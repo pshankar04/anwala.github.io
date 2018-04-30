@@ -1,0 +1,9 @@
+Replace Tape Backup with Cloud Storage
+Today’s growing data stores are making traditional tape backup more challenging and expensive than ever before. AWS is working with customers to replace on-premises tape backup with durable and cost-effective cloud-enabled solutions.
+
+To help you get started, visit our Implementation Guide: Replace Tape Backup with Cloud Storage with AWS Storage Gateway and access step-by-step tutorials to:
+
+Provide a virtual host with local storage
+Create virtual tapes in your gateway’s virtual tape library
+Back up these virtual tapes using existing backup software
+Reduce costs with long-term archival storage

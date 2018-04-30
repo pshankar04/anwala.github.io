@@ -1,0 +1,8 @@
+STANDARD is:
+[1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0]
+OUTCOME  after Comparison is:
+[1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0]
+CONFUSION MATRIX is :
+[[3, 7], [3, 7]]
+('PRECISION', 0.3)
+('ACCURACY', 0.5)

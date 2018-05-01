@@ -1,0 +1,15 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+['A H T A P O T', 'Yestermorrow', 'n\xc3\xa3o ponho m\xc3\xbasica', 'Who needs a TV?', 'Abu Everyday', 'Out of my Mind', "Faland'hoje"]
+['RingtoneLirik.com : Download Mp3 Ringtones for Cell Phone', 'mpcfilmco.com']
+['Friday Night Dream', 'For the Other Things', 'SEVEN1878', 'kaleidoscopekanvas-KK', 'fractalpress.gr', 'You Should Be In Sweden', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'Fools Rush In']
+['Art For Album Covers', 'Spinitron Charts', '60@60 Sounding Booth', 'Green Eggs and Ham Mondays 8-10am', 'Chemical Robert!', 'Lost in the Shuffle', 'IoTube     :)', 'persona mia', "Borsnark 's music Blog", 'Lo importante es que estes t\xc3\xba bien', 'Rod Shone', 'If You Give a Girl a Camera...', 'The Campus Buzz on WSOU']
+['mattgarman', 'The Slow Music Movement', 'ELLIA TOWNSEND A2', "Captain Panda's Local & Independent Music Showcase", 'Primitive Offerings', 'Steel City Rust', "MarkEOrtega's Journalism Portfolio", 'Oh Yes J\xc3\xb3nsi!!', 'DaveCromwell Writes', 'Dust and Water Studios', 'Earthly Pleasures', 'The Jeopardy of Contentment', 'macthemost', 'Mile In Mine', 'Subterranean Noise', 'Everything Starts With an A...', '300 Vinyl Challenge 2017', 'A layer of chips', 'Some Call It Noise....', 'from a voice plantation', 'The Run-Out Groove', 'Broken Biscuit Records', 'The Music Binge', 'The Stark Online', 'the fast break of champions', 'Hip In Detroit', 'Advanced Portfolio - Josh Pamfilo - Candidate Number 2186 - Centre Number 16607 - A2 Media Studies', 'Wyoming Beat', 'PSI LAB', "i'm in too truthful a mood"]
+['Hojee Pojee', 'Words', 'Diagnosis: No Radio', 'Nothing But Ordinary Glances At Extraordinary Things', 'The Great Adventure 2016', 'Alex Denney', 'tumbleweed', 'Saturday Night Hutch', 'a duchess nonethelesss', 'jaaackie.', 'funky little demons', 'Happy Accidents', 'Angie Dynamo', 'Playing Favorites', 'She May Be Naked', 'the traveling neighborhood', 'Skywriting', 'The Stearns Family', 'Sonology', 'My Life From A to Z', 'bittersweet', 'Rants from the Pants', "Avidd Wallows' Blog", 'STATUS', 'Azul Valentina', "She's mad but she's magic. There's no lie in her fire."]
+['Web Science and Digital Libraries Research Group', 'ORGANMYTH', 'T H E V O I D S', 'thesingularitymusic - electronic rock', 'A2 MEDIA COURSEWORK JOINT BLOG', 'FOLK IS NOT HAPPY', 'INDIEohren.!', 'Stonehill Sketchbook']
+['Stephanie Veto Photography', 'The Themes of My Life', 's\xc3\xa5 uppsn\xc3\xa4rjd i det bl\xc3\xa5']
+['Bleak Bliss', 'You might feel the same']
+['SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA', 'F-Measure']

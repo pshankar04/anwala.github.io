@@ -1,0 +1,29 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+Iteration 6
+Iteration 7
+Iteration 8
+['a duchess nonethelesss', 'Abu Everyday', 'Stonehill Sketchbook']
+[]
+[]
+['mattgarman', "Captain Panda's Local & Independent Music Showcase", 'Steel City Rust', 'thesingularitymusic - electronic rock', 'Dust and Water Studios', 'FOLK IS NOT HAPPY', 'The Jeopardy of Contentment', '300 Vinyl Challenge 2017', 'from a voice plantation', 'The Run-Out Groove', 'The Music Binge', 'mpcfilmco.com', 'The Stark Online', 'PSI LAB']
+['Primitive Offerings', 'Saturday Night Hutch', 'DaveCromwell Writes', 'Earthly Pleasures', 'macthemost', 'A layer of chips', 'Some Call It Noise....', 'Broken Biscuit Records', 'Hip In Detroit', 'Wyoming Beat']
+['Chemical Robert!', 'Stephanie Veto Photography', "Borsnark 's music Blog", 'Lo importante es que estes t\xc3\xba bien', 'Skywriting', 'If You Give a Girl a Camera...', 's\xc3\xa5 uppsn\xc3\xa4rjd i det bl\xc3\xa5']
+[]
+['Hojee Pojee', 'Playing Favorites']
+[]
+['Friday Night Dream', 'For the Other Things', 'SEVEN1878', 'kaleidoscopekanvas-KK', 'fractalpress.gr', 'You Should Be In Sweden', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'Fools Rush In']
+['You might feel the same']
+[]
+['Art For Album Covers', "MarkEOrtega's Journalism Portfolio", 'Oh Yes J\xc3\xb3nsi!!', 'A H T A P O T', 'the traveling neighborhood']
+[]
+['ELLIA TOWNSEND A2', 'The Great Adventure 2016', 'T H E V O I D S', 'A2 MEDIA COURSEWORK JOINT BLOG', 'Mile In Mine', "Faland'hoje", 'Advanced Portfolio - Josh Pamfilo - Candidate Number 2186 - Centre Number 16607 - A2 Media Studies']
+['SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA', 'F-Measure']
+['Bleak Bliss', 'Everything Starts With an A...']
+['The Slow Music Movement', 'Words', 'Diagnosis: No Radio', 'Yestermorrow', 'Nothing But Ordinary Glances At Extraordinary Things', 'Alex Denney', 'tumbleweed', 'RingtoneLirik.com : Download Mp3 Ringtones for Cell Phone', 'jaaackie.', 'funky little demons', 'Happy Accidents', 'Angie Dynamo', 'She May Be Naked', 'Subterranean Noise', 'The Stearns Family', 'Sonology', 'My Life From A to Z', 'bittersweet', 'Rants from the Pants', "Avidd Wallows' Blog", 'STATUS', 'the fast break of champions', 'Azul Valentina', "She's mad but she's magic. There's no lie in her fire.", "i'm in too truthful a mood"]
+['Web Science and Digital Libraries Research Group', 'ORGANMYTH', 'n\xc3\xa3o ponho m\xc3\xbasica', 'INDIEohren.!', 'Who needs a TV?', 'Out of my Mind']
+['Spinitron Charts', '60@60 Sounding Booth', 'Green Eggs and Ham Mondays 8-10am', 'Lost in the Shuffle', 'IoTube     :)', 'persona mia', 'The Themes of My Life', 'Rod Shone', 'The Campus Buzz on WSOU']

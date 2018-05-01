@@ -1,0 +1,123 @@
+('Blog Name', 'F-Measure')
+('For K', 1)
+SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+
+
+
+('Blog Name', 'F-Measure')
+('For K', 2)
+Subterranean Noise
+SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+
+
+
+('Blog Name', 'F-Measure')
+('For K', 5)
+PSI LAB
+Some Call It Noise....
+The Jeopardy of Contentment
+Subterranean Noise
+SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+
+
+
+('Blog Name', 'F-Measure')
+('For K', 10)
+Sonology
+i'm in too truthful a mood
+the fast break of champions
+The Music Binge
+A layer of chips
+PSI LAB
+Some Call It Noise....
+The Jeopardy of Contentment
+Subterranean Noise
+SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+
+
+
+('Blog Name', 'F-Measure')
+('For K', 20)
+Steel City Rust
+Captain Panda's Local & Independent Music Showcase
+The Slow Music Movement
+DaveCromwell Writes
+Abu Everyday
+The Run-Out Groove
+Rants from the Pants
+Broken Biscuit Records
+My Life From A to Z
+from a voice plantation
+Sonology
+i'm in too truthful a mood
+the fast break of champions
+The Music Binge
+A layer of chips
+PSI LAB
+Some Call It Noise....
+The Jeopardy of Contentment
+Subterranean Noise
+SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+
+
+
+('Blog Name', 'Web Science and Digital Libraries Research Group')
+('For K', 1)
+Subterranean Noise
+
+
+
+('Blog Name', 'Web Science and Digital Libraries Research Group')
+('For K', 2)
+Sonology
+Subterranean Noise
+
+
+
+('Blog Name', 'Web Science and Digital Libraries Research Group')
+('For K', 5)
+Hip In Detroit
+PSI LAB
+macthemost
+Sonology
+Subterranean Noise
+
+
+
+('Blog Name', 'Web Science and Digital Libraries Research Group')
+('For K', 10)
+She May Be Naked
+ELLIA TOWNSEND A2
+Diagnosis: No Radio
+Abu Everyday
+Rants from the Pants
+Hip In Detroit
+PSI LAB
+macthemost
+Sonology
+Subterranean Noise
+
+
+
+('Blog Name', 'Web Science and Digital Libraries Research Group')
+('For K', 20)
+DaveCromwell Writes
+Playing Favorites
+My Life From A to Z
+ORGANMYTH
+Nothing But Ordinary Glances At Extraordinary Things
+Avidd Wallows' Blog
+from a voice plantation
+Mile In Mine
+A2 MEDIA COURSEWORK JOINT BLOG
+Alex Denney
+She May Be Naked
+ELLIA TOWNSEND A2
+Diagnosis: No Radio
+Abu Everyday
+Rants from the Pants
+Hip In Detroit
+PSI LAB
+macthemost
+Sonology
+Subterranean Noise
